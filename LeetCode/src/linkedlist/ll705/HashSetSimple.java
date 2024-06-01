@@ -1,5 +1,7 @@
 package linkedlist.ll705;
 
+import java.util.Arrays;
+
 public class HashSetSimple {
 
 	boolean[] MAXVAL;
